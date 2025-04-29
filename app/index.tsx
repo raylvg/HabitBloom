@@ -20,10 +20,10 @@ import { Ionicons } from '@expo/vector-icons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { LinearGradient } from 'expo-linear-gradient';
 
-// Key untuk penyimpanan data di AsyncStorage
+
 const STORAGE_KEY = '@activity_tasks';
 
-// Colors
+
 const PINK_COLOR = '#ff90bb';
 const BLUE_COLOR = '#8accd5';
 
